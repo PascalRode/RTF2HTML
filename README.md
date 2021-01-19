@@ -1,5 +1,9 @@
 # RTF2HTML
+
 Convert RTF colored text to HTML syntax. 
+
+
+
 
 This very simple tool can convert RTF formatted text (e.g. from Word or other text editors) into HTML coding.
 
