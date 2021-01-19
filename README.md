@@ -2,7 +2,7 @@
 # Convert RTF colored text to HTML syntax. 
 
 #   So gehen Bilder
-# ![alt text](titelseite.2019.12.png)
+# ![alt text](rtf2html_2.png)
 
 This very simple tool can convert RTF formatted text (e.g. from Word or other text editors) into HTML coding.
 
